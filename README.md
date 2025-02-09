@@ -38,9 +38,9 @@ chmod +x recon.sh
 - 📄 report.html → Final HTML report.
 
 ##  Screenshot  
-![Automated Recon Script](Screenshot 2025-02-09 183251.png)
-![Automated Recon Script](Screenshot 2025-02-09 183352.png)
-![Automated Recon Script](Screenshot 2025-02-09 183251.png)
+![Automated Recon Script](Screenshot1.png)
+![Automated Recon Script](Screenshot2.png)
+![Automated Recon Script](Screenshot3.png)
 
 
 ## License
