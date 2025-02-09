@@ -32,10 +32,10 @@ chmod +x recon.sh
 -It will then generate a PDF and HTML report with the findings.
 
 ## Output Files
-📄 subdomains.txt → List of found subdomains.
-📄 live_subdomains.txt → List of active subdomains.
-📄 report.pdf → Final PDF report.
-📄 report.html → Final HTML report.
+- 📄 subdomains.txt → List of found subdomains.
+- 📄 live_subdomains.txt → List of active subdomains.
+- 📄 report.pdf → Final PDF report.
+- 📄 report.html → Final HTML report.
 
 ## License
 This project is licensed under the MIT License – feel free to use and modify it.
