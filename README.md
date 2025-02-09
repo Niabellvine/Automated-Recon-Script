@@ -3,10 +3,10 @@
 This is a **Bash-based automated reconnaissance tool** that helps security researchers and penetration testers **find subdomains, check for live hosts, and generate a report** with an easy-to-use GUI.
 
 ## Features  
-✅ **Multi-tool Subdomain Enumeration** (`subfinder`, `amass`, `assetfinder`, `findomain`)  
-✅ **Live Subdomain Checking** (`httprobe`)  
-✅ **Report Generation in PDF & HTML** (`pandoc`)  
-✅ **Graphical User Interface (GUI)** (`Zenity`)  
+-  **Multi-tool Subdomain Enumeration** (`subfinder`, `amass`, `assetfinder`, `findomain`)  
+-  **Live Subdomain Checking** (`httprobe`)  
+-  **Report Generation in PDF & HTML** (`pandoc`)  
+-  *Graphical User Interface (GUI)** (`Zenity`)  
 
 ## Installation  
 ### **1. Install Dependencies**
@@ -28,8 +28,8 @@ chmod +x recon.sh
 ```bash
 ./recon.sh
 ```
--The script will automatically find subdomains and check which ones are live.
--It will then generate a PDF and HTML report with the findings.
+- The script will automatically find subdomains and check which ones are live.
+- It will then generate a PDF and HTML report with the findings.
 
 ## Output Files
 - 📄 subdomains.txt → List of found subdomains.
