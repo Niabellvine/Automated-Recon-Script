@@ -1,4 +1,4 @@
-# Automated-Recon-Script
+# Pentest Recon
 ## Overview  
 This is a **Bash-based automated reconnaissance tool** that helps security researchers and penetration testers **find subdomains, check for live hosts, and generate a report** with an easy-to-use GUI.
 
